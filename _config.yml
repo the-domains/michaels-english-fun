@@ -1,14 +1,17 @@
-layout_spectrum: 0.8022858400363475
 typography_spectrum: 0.26813745428808033
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5584954088553786
   lightness: 0.5932679323013872
   saturation: 0.6624375584069639
   rhythmicContrast: 0.7726763018872589
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.8022858400363475
+logo: null
 name: Michael's English Fun
